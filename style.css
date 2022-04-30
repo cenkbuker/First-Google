@@ -1,0 +1,48 @@
+.content{
+    width: 90%;
+    margin: 0 auto;
+}
+.logo{
+    margin: auto;
+    width: 351px;
+    height: 113;
+    display: block;
+}
+.search-bar{
+    background-color: aquamarine;
+    margin: auto;
+    text-align: center;
+    background: #EEEEEE;
+}
+.bottom{
+    display: inline-block;
+    width: 100%;
+
+}
+.searches{
+    background-color: rgb(126, 229, 218);
+    width: 37%;
+    float: left;
+    height: 80px;
+}
+.about{
+background-color: rgb(112, 204, 194);
+width: 19%;
+float: left;
+height: 80px;
+
+}
+.update{
+background-color: rgb(98, 179, 170);
+float: left;
+width: 42%;
+height: 80px;
+}
+.text-properties{
+    text-align: center;
+    padding: 1px;
+    margin: 2px;
+}
+p{
+    margin: 0;
+}
